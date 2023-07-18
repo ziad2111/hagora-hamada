@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+ width: 80%;
+ margin: 70px auto;
+ 
+
+}
+.navbar img{
+    width: 90px;
+    border-radius: 50%;
+}
+
+.video{
+    width: 80%;
+    margin: 50px;
+    text-align: center;
+}
+.d-flex img{
+    width: 80px;
+}
+.io{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding: 20px;
+}
+.io p{
+    font-size: 20px;
+    font-weight: bold;
+    color: gold;
+}
+.message{
+    font-size: 16px;
+    line-height: 1.8;
+    direction: rtl;
+    text-align: center;
+    width: 80%;
+    margin: 20px auto;
+    font-weight: bold;
+    color: darkorange;
+}
